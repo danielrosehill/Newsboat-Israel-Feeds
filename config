@@ -1,0 +1,4 @@
+browser "google-chrome %u"
+max-items 100
+reload-time 3
+article-sort-order date-desc
