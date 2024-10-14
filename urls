@@ -89,3 +89,19 @@ https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=9&Site=945
 https://www.af.mil/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=1&isdashboardselected=0&max=20 Militaries
 https://www.navy.mil/DesktopModules/ArticleCS/RSS.ashx?ContentType=2&Site=1067&max=10 Militaries
 ttps://www.centcom.mil/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=808&isdashboardselected=0&max=20h
+
+# World News - General
+
+https://www.rt.com/rss/news/ World_General
+https://feeds.a.dj.com/rss/RSSWorldNews.xml World_General
+https://feeds.skynews.com/feeds/rss/world.xml World_General
+https://www.foreignaffairs.com/rss.xml World_General
+https://feeds.washingtonpost.com/rss/world?itid=lk_inline_manual_35 World_General
+https://www.cbsnews.com/latest/rss/world World_General
+https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6311 World_General
+
+# UN Agencies
+
+https://unsco.unmissions.org/rss.xml UN
+https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml UN
+https://press.un.org/en/rss.xml UN
